@@ -13,7 +13,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Lab5PSoC1\Design01\Source Files\main.c">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Lab5PSoC1\Design01\Generated_Source">
 <ExpandedNodeIds>
 <v>Lab5PSoC1</v>
 <v>Lab5PSoC1\Design01</v>
@@ -30,7 +30,6 @@
 <v>Lab5PSoC1\Design01\Header Files\cyapicallbacks.h</v>
 <v>Lab5PSoC1\Design01\Source Files</v>
 <v>Lab5PSoC1\Design01\Source Files\main.c</v>
-<v>Lab5PSoC1\Design01\Generated_Source</v>
 <v>Lab5PSoC1\Design01\Generated_Source\PSoC4</v>
 </ExpandedNodeIds>
 <VisibleNodeIds />
@@ -135,7 +134,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1010, 495" SelectedTabbedMdiWindow="b0899f98-d9f3-4af8-86e8-acff4c8945fb"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="6279c61c-16ea-46ab-b6d3-bb38d0bee2a0" /><DocumentWindow Key="C:\Users\User\Documents\PSoC Creator\Lab5PSoC1\Design01.cydsn\TopDesign\TopDesign.cysch" Guid="efc89bdb-743c-4c11-bdae-6d82ad6973b3" /><DocumentWindow Key="C:\Users\User\Documents\PSoC Creator\Lab5PSoC1\Design01.cydsn\Design01.cydwr" Guid="5700bc7e-02ac-4449-b156-4e73205f1300" /><DocumentWindow Key="C:\Users\User\Documents\PSoC Creator\Lab5PSoC1\Design01.cydsn\main.c" Guid="b0899f98-d9f3-4af8-86e8-acff4c8945fb" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1010, 495" SelectedTabbedMdiWindow="61d64120-8558-4715-8c05-efae29edc411"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="6279c61c-16ea-46ab-b6d3-bb38d0bee2a0" /><DocumentWindow Key="C:\Users\User\Documents\PSoC Creator\Lab\Lab5PSoC1\Design01.cydsn\TopDesign\TopDesign.cysch" Guid="ac3297c4-7275-4f09-a76d-4c27efae3b36" /><DocumentWindow Key="C:\Users\User\Documents\PSoC Creator\Lab\Lab5PSoC1\Design01.cydsn\Design01.cydwr" Guid="afc0086a-77b6-486f-83a9-30e04f45d2fc" /><DocumentWindow Key="C:\Users\User\Documents\PSoC Creator\Lab\Lab5PSoC1\Design01.cydsn\main.c" Guid="61d64120-8558-4715-8c05-efae29edc411" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
